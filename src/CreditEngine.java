@@ -25,7 +25,7 @@ public class CreditEngine implements ActionListener, ItemListener {
 
 	@Override
 	public void actionPerformed(ActionEvent arg0) {
-		// TODO Auto-generated method stub
+		// TODO Auto-generated method stub (***)
 		if (creditItem.equals(cw.vid[0])){
 			stavka = 20;
 			summa = Integer.parseInt(cw.SummaCreditField.getText());
