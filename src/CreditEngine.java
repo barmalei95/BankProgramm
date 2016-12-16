@@ -18,6 +18,7 @@ public class CreditEngine implements ActionListener, ItemListener {
 	private int srok = 0;
 	private int doxod = 0;
 	
+	
 	CreditEngine(CreditWindow cw){
 		this.cw = cw;
 	}
